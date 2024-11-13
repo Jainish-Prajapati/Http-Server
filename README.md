@@ -35,6 +35,7 @@ Ensure you have Java Development Kit (JDK) version 17 installed. If not, install
 ```bash
 sudo apt-get update
 sudo apt-get install openjdk-17-jdk
+```
 
 ## Clone Repository
 
@@ -43,6 +44,7 @@ To clone this repository, open your terminal and run:
 ```bash
 git clone https://github.com/Jainish-Prajapati/Http-Server.git
 cd Http-Server
+```
 
 ## Running the Servers and Clients
 
@@ -56,3 +58,8 @@ cd MultiThreaded
 /*Compile files*/
 javac Server.java
 javac Client.java
+```
+
+and similarly you can compile and run single threaded and threadpool servers too.
+
+It's just an implementation of simple http server, developed to understand exactly how servers works irl!!!  
