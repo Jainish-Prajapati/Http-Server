@@ -21,7 +21,7 @@ public class Server {
     }
 
     public static void main(String[] args) {
-        int port = 8010;
+        int port = 8081;
         int poolSize = 10; // Adjust the pool size as needed
         Server server = new Server(poolSize);
 
