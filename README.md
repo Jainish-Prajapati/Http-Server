@@ -62,4 +62,4 @@ javac Client.java
 
 and similarly you can compile and run single threaded and threadpool servers too.
 
-It's just an implementation of simple http server, developed to understand exactly how servers works irl!!!  
+It's just an implementation of simple http server, developed to understand exactly how servers works internally irl !!  
