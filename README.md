@@ -32,11 +32,17 @@ This project demonstrates three different approaches to handling multiple client
 
 Ensure you have Java Development Kit (JDK) version 17 installed. If not, install it using the following commands:
 
+For debian based distros
 ```bash
 sudo apt-get update
 sudo apt-get install openjdk-17-jdk
 ```
 
+For Arch
+```bash
+sudo pacman -Syu
+sudo pacman -S jdk21-openjdk
+```
 ## Clone Repository
 
 To clone this repository, open your terminal and run:
